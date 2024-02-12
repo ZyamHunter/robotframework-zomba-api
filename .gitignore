@@ -1,0 +1,8 @@
+results/
+logs/
+__pycache__
+node_modules/
+.env
+project-venv/
+soap/
+venv/
